@@ -14,7 +14,7 @@ https://april.eecs.umich.edu/
     make
 
 # Simulator
-    ././MOSS-sim-manual -c ../config/simworld.config -f /tmp/sim.lcmlog -p 8888
+    ./MOSS-sim-manual -c ../config/simworld.config -f /tmp/sim.lcmlog -p 8888
     ./MOSS-sim -c ../config/simworld.config -g corridor-map.graph -c ../config/simworld-corridor.config -f /tmp/sim.lcmlog -p 8888
 ![alt text](https://april.eecs.umich.edu/public/users/xipengw/images/MOSS-sim.jpg)
 
